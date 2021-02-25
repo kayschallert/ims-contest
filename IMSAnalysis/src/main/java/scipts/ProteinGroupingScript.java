@@ -58,6 +58,8 @@ public class ProteinGroupingScript {
 		// write protein groups with spectrum count
 		ProphaneOutput.genericWithGroupsAndSubgroups(mpagrouping, dataFolder, "_mpa_gutdb2");
 		ProphaneOutput.genericWithGroupsAndSubgroups(pappsogrouping, dataFolder, "_pappso_gutdb2");
+		
+		
 	}
 
 
